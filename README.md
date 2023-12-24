@@ -56,8 +56,6 @@ A simple and elegant to-do list app to help you organize and manage your tasks e
 
 - Ayesha
 
-Feel free to contribute or customize the app to suit your preferences. Happy organizing!
-
 Made With Love 🧡
 
 © 2023 Ayesha. All rights reserved.
